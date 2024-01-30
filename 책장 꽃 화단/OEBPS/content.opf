@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package version="2.0" unique-identifier="BookId" xmlns="http://www.idpf.org/2007/opf">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+    <dc:language>ko</dc:language>
+    <dc:title>사슴뿔 나무</dc:title>
+    <dc:creator opf:role="aut">김형인</dc:creator>
+    <dc:publisher>목금성</dc:publisher>
+    <dc:date opf:event="publication">2024-01-31</dc:date>
+    <meta name="Sigil version" content="2.0.2"/>
+    <dc:date opf:event="modification" xmlns:opf="http://www.idpf.org/2007/opf">2024-01-30</dc:date>
+    <dc:identifier opf:scheme="UUID" id="BookId">urn:uuid:e4166ae1-bc3f-4dd8-ad18-2ac6eea80b91</dc:identifier>
+    <meta name="cover" content="galoo.jpg"/>
+  </metadata>
+  <manifest>
+    <item id="ncx" href="toc.ncx" media-type="application/x-dtbncx+xml"/>
+    <item id="Poem03.xhtml" href="Text/Poem03.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Poem31.xhtml" href="Text/Poem31.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Poem05.xhtml" href="Text/Poem05.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Poem06.xhtml" href="Text/Poem06.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Poem07.xhtml" href="Text/Poem07.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Poem08.xhtml" href="Text/Poem08.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Poem46.xhtml" href="Text/Poem46.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Poem09.xhtml" href="Text/Poem09.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Poem15.xhtml" href="Text/Poem15.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Poem32.xhtml" href="Text/Poem32.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Poem33.xhtml" href="Text/Poem33.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Poem30.xhtml" href="Text/Poem30.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Poem16.xhtml" href="Text/Poem16.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Poem10.xhtml" href="Text/Poem10.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Poem04.xhtml" href="Text/Poem04.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Poem13.xhtml" href="Text/Poem13.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Poem58.xhtml" href="Text/Poem58.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Poem41.xhtml" href="Text/Poem41.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Poem17.xhtml" href="Text/Poem17.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Poem18.xhtml" href="Text/Poem18.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Poem19.xhtml" href="Text/Poem19.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Poem20.xhtml" href="Text/Poem20.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Poem22.xhtml" href="Text/Poem22.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Poem23.xhtml" href="Text/Poem23.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Poem24.xhtml" href="Text/Poem24.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Style0001.css" href="Styles/Style0001.css" media-type="text/css"/>
+    <item id="SunBatang-Medium.ttf" href="Fonts/SunBatang-Medium.ttf" media-type="font/ttf"/>
+    <item id="Poem25.xhtml" href="Text/Poem25.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Poem26.xhtml" href="Text/Poem26.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Poem27.xhtml" href="Text/Poem27.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Poem02.xhtml" href="Text/Poem02.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Poem48.xhtml" href="Text/Poem48.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Poem34.xhtml" href="Text/Poem34.xhtml" media-type="application/xhtml+xml"/>
+    <item id="NewStyle.css" href="Styles/NewStyle.css" media-type="text/css"/>
+    <item id="Poem45.xhtml" href="Text/Poem45.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Poem29.xhtml" href="Text/Poem29.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Poem35.xhtml" href="Text/Poem35.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Poem36.xhtml" href="Text/Poem36.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Poem37.xhtml" href="Text/Poem37.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Poem01.xhtml" href="Text/Poem01.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Poem38.xhtml" href="Text/Poem38.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Poem39.xhtml" href="Text/Poem39.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Poem44.xhtml" href="Text/Poem44.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Poem42.xhtml" href="Text/Poem42.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Poem43.xhtml" href="Text/Poem43.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Poem47.xhtml" href="Text/Poem47.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Poem14.xhtml" href="Text/Poem14.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Poem49.xhtml" href="Text/Poem49.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Poem51.xhtml" href="Text/Poem51.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Poem52.xhtml" href="Text/Poem52.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Poem59.xhtml" href="Text/Poem59.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Poem53.xhtml" href="Text/Poem53.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Poem54.xhtml" href="Text/Poem54.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Poem55.xhtml" href="Text/Poem55.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Poem56.xhtml" href="Text/Poem56.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Poem12.xhtml" href="Text/Poem12.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Poem57.xhtml" href="Text/Poem57.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Chap02.xhtml" href="Text/Chap02.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Chap04.xhtml" href="Text/Chap04.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Chap03.xhtml" href="Text/Chap03.xhtml" media-type="application/xhtml+xml"/>
+    <item id="pyojigalsaegjaggogga.jpg" href="Images/표지%2C갈색작곡가.jpg" media-type="image/jpeg"/>
+    <item id="galoo.jpg" href="Images/galoo.jpg" media-type="image/jpeg"/>
+    <item id="cover.xhtml" href="Text/cover.xhtml" media-type="application/xhtml+xml"/>
+    <item id="treeoo.jpg" href="Images/treeoo.jpg" media-type="image/jpeg"/>
+    <item id="twoff.jpg" href="Images/twoff.jpg" media-type="image/jpeg"/>
+    <item id="dasitree.jpg" href="Images/dasitree.jpg" media-type="image/jpeg"/>
+    <item id="onee.jpg" href="Images/onee.jpg" media-type="image/jpeg"/>
+    <item id="tooe.jpg" href="Images/tooe.jpg" media-type="image/jpeg"/>
+    <item id="poops.jpg" href="Images/poops.jpg" media-type="image/jpeg"/>
+    <item id="agjk.jpg" href="Images/agjk.jpg" media-type="image/jpeg"/>
+    <item id="akwk.jpg" href="Images/akwk.jpg" media-type="image/jpeg"/>
+    <item id="babsang.jpg" href="Images/babsang.jpg" media-type="image/jpeg"/>
+    <item id="binbong.jpg" href="Images/binbong.jpg" media-type="image/jpeg"/>
+    <item id="bongo.jpg" href="Images/bongo.jpg" media-type="image/jpeg"/>
+    <item id="bunsi.jpg" href="Images/bunsi.jpg" media-type="image/jpeg"/>
+    <item id="ceuko.jpg" href="Images/ceuko.jpg" media-type="image/jpeg"/>
+    <item id="chjk.jpg" href="Images/chjk.jpg" media-type="image/jpeg"/>
+    <item id="dallo.jpg" href="Images/dallo.jpg" media-type="image/jpeg"/>
+    <item id="djklu.jpg" href="Images/djklu.jpg" media-type="image/jpeg"/>
+    <item id="fjdg.jpg" href="Images/fjdg.jpg" media-type="image/jpeg"/>
+    <item id="foroo.jpg" href="Images/foroo.jpg" media-type="image/jpeg"/>
+    <item id="hahao.jpg" href="Images/hahao.jpg" media-type="image/jpeg"/>
+    <item id="hdft.jpg" href="Images/hdft.jpg" media-type="image/jpeg"/>
+    <item id="napal.jpg" href="Images/napal.jpg" media-type="image/jpeg"/>
+    <item id="oneoo.jpg" href="Images/oneoo.jpg" media-type="image/jpeg"/>
+    <item id="qwrt.jpg" href="Images/qwrt.jpg" media-type="image/jpeg"/>
+    <item id="sjhg.jpg" href="Images/sjhg.jpg" media-type="image/jpeg"/>
+    <item id="tadf.jpg" href="Images/tadf.jpg" media-type="image/jpeg"/>
+    <item id="ubao.jpg" href="Images/ubao.jpg" media-type="image/jpeg"/>
+    <item id="undodh.jpg" href="Images/undodh.jpg" media-type="image/jpeg"/>
+    <item id="wuyt.jpg" href="Images/wuyt.jpg" media-type="image/jpeg"/>
+    <item id="zart.jpg" href="Images/zart.jpg" media-type="image/jpeg"/>
+    <item id="zkll.jpg" href="Images/zkll.jpg" media-type="image/jpeg"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="cover.xhtml"/>
+    <itemref idref="Poem46.xhtml"/>
+    <itemref idref="Poem01.xhtml"/>
+    <itemref idref="Poem14.xhtml"/>
+    <itemref idref="Poem12.xhtml"/>
+    <itemref idref="Poem29.xhtml"/>
+    <itemref idref="Poem43.xhtml"/>
+    <itemref idref="Poem49.xhtml"/>
+    <itemref idref="Poem59.xhtml"/>
+    <itemref idref="Poem33.xhtml"/>
+    <itemref idref="Poem05.xhtml"/>
+    <itemref idref="Poem03.xhtml"/>
+    <itemref idref="Poem13.xhtml"/>
+    <itemref idref="Poem16.xhtml"/>
+    <itemref idref="Poem08.xhtml"/>
+    <itemref idref="Chap02.xhtml"/>
+    <itemref idref="Poem39.xhtml"/>
+    <itemref idref="Poem20.xhtml"/>
+    <itemref idref="Poem24.xhtml"/>
+    <itemref idref="Poem07.xhtml"/>
+    <itemref idref="Poem18.xhtml"/>
+    <itemref idref="Poem23.xhtml"/>
+    <itemref idref="Poem10.xhtml"/>
+    <itemref idref="Poem04.xhtml"/>
+    <itemref idref="Poem26.xhtml"/>
+    <itemref idref="Poem19.xhtml"/>
+    <itemref idref="Poem52.xhtml"/>
+    <itemref idref="Poem02.xhtml"/>
+    <itemref idref="Poem17.xhtml"/>
+    <itemref idref="Chap03.xhtml"/>
+    <itemref idref="Poem22.xhtml"/>
+    <itemref idref="Poem09.xhtml"/>
+    <itemref idref="Poem58.xhtml"/>
+    <itemref idref="Poem27.xhtml"/>
+    <itemref idref="Poem25.xhtml"/>
+    <itemref idref="Poem35.xhtml"/>
+    <itemref idref="Poem41.xhtml"/>
+    <itemref idref="Poem36.xhtml"/>
+    <itemref idref="Poem56.xhtml"/>
+    <itemref idref="Poem34.xhtml"/>
+    <itemref idref="Poem31.xhtml"/>
+    <itemref idref="Poem44.xhtml"/>
+    <itemref idref="Poem32.xhtml"/>
+    <itemref idref="Chap04.xhtml"/>
+    <itemref idref="Poem30.xhtml"/>
+    <itemref idref="Poem37.xhtml"/>
+    <itemref idref="Poem47.xhtml"/>
+    <itemref idref="Poem38.xhtml"/>
+    <itemref idref="Poem48.xhtml"/>
+    <itemref idref="Poem42.xhtml"/>
+    <itemref idref="Poem57.xhtml"/>
+    <itemref idref="Poem45.xhtml"/>
+    <itemref idref="Poem06.xhtml"/>
+    <itemref idref="Poem51.xhtml"/>
+    <itemref idref="Poem55.xhtml"/>
+    <itemref idref="Poem53.xhtml"/>
+    <itemref idref="Poem54.xhtml"/>
+    <itemref idref="Poem15.xhtml"/>
+  </spine>
+  <guide>
+    <reference type="cover" title="표지" href="Text/cover.xhtml"/>
+  </guide>
+</package>

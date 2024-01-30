@@ -1,0 +1,45 @@
+@font-face {
+  font-family: 'SunBatang';
+  src: url('../Fonts/SunBatang-Medium.ttf') format('truetype');
+}
+@font-face {
+  font-family: 'KoPub';
+  src: url('../Fonts/KoPubDotumMedium.ttf') format('truetype');
+}
+
+p {
+  font-family: 'SunBatang', serif; size: 1.2em; line-height: 1.0em; text-indent: 0em; margin-left: 5%; margin-right:5%; text-align: justify;
+}
+h1 { font-family: 'SunBatang', serif; size: 2em; text-align: right; color: #BB7711; }
+h2 { font-family: 'SunBatang', serif; size: 1.6em; text-align: center; color: #BB7711; }
+h3 { font-family: 'SunBatang', serif; size: 1.4em; margin-right: 5%; text-align: right; }
+h4 { font-family: 'SunBatang', serif; size: 1.3em; text-indent: 2em; text-align: left; }
+h5 { font-family: 'SunBatang', serif; size: 1.2em; text-indent: 2em; margin-top: 1em; text-align: right; }
+h6 { font-family: 'KoPub', sans-serif; size: 1em; text-indent: 0em; margin-top: 1em; margin-left: 60%; margin-right: 3%; text-align: justify; color: #BB7711; }
+
+h2 {
+  margin-top: 10mm;
+  margin-bottom: 10mm;
+}
+
+h3 {
+  margin-bottom: 10mm;
+}
+
+img { max-width: 100%; height: auto; }
+img.center { display: block; margin: 10px auto; }
+
+.img_right {
+	float:right;
+	width:50%;
+	padding:10px;
+}
+.img_left {
+	float:left;
+	width:30%;
+	padding:10px;
+}
+.img_border {
+	border: 1px solid #ccc;
+}
+ 
